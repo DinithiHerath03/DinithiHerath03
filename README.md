@@ -1,6 +1,6 @@
 # Dinithi Herath
 <h1 align="center">Hi 👋, I'm Dinithi </h1>
-### 
+
 I'm a (Hons) Data Science undergraduate at the University of Plymouth, passionate about exploring the world of data, Artificial Intelligence, and Machine Learning. I enjoy developing my technical skills, exploring new technologies, and applying data-driven approaches to solve real-world problems. I'm always eager to learn, take on new challenges, and gain practical experience through projects and collaboration.
 
 <h3 align="center">
@@ -14,6 +14,8 @@ I'm a (Hons) Data Science undergraduate at the University of Plymouth, passionat
 - 🧠 Currently learning Deep Learning, NLP and LLMs.
 - 💻 Interested in building practical projects using data.
 - 🌱 Always learning and exploring new technologies.
+
+- 🔭 Currently working on Sri Lankan Sign Language Translator as my final year project
 
 ### 🔗 Connect With Me
 
